@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL407: Medieval Women Writers"
+course_description: "A close examination of the lives, historical and cultural contexts, and writings of several medieval women writers, including Julian Norwich, Margery Kempe, Marie de France, and Christine de Pizan."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Secular Female Authors in the Medieval World** <span
 id="3"></span> 
 *Outside of the Church, education was limited to the very wealthy.  In

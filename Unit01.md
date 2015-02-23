@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL407: Medieval Women Writers"
+course_description: "A close examination of the lives, historical and cultural contexts, and writings of several medieval women writers, including Julian Norwich, Margery Kempe, Marie de France, and Christine de Pizan."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Medieval Times, Medieval Women** <span id="1"></span>  **Unit1
 Learning Outcomes**  
 Upon successful completion of this unit, students will be able to:

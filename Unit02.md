@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL407: Medieval Women Writers"
+course_description: "A close examination of the lives, historical and cultural contexts, and writings of several medieval women writers, including Julian Norwich, Margery Kempe, Marie de France, and Christine de Pizan."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Women and the Church** <span id="2"></span> 
 *In the Middle Ages, the Church—an institution that then enjoyed
 cohesive social, political, and cultural power—monopolized education;

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL407: Medieval Women Writers"
+course_description: "A close examination of the lives, historical and cultural contexts, and writings of several medieval women writers, including Julian Norwich, Margery Kempe, Marie de France, and Christine de Pizan."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Final Exam** <span id="4"></span> 
 -   **Final Exam: The Saylor Foundation's ENGL407 Final Exam**
     Link: The Saylor Foundation's [ENGL407 Final
