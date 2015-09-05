@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "ENGL407: Medieval Women Writers"
 -----------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_engl407) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 Scholarship on medieval women writers is a somewhat recent phenomenon,
 in part because we know relatively little about men of the Middle
 Ages—and what we know about women from the period is even more limited. 
