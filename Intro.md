@@ -87,3 +87,4 @@ computer.
 - [Unit 2](https://legacy.saylor.org/engl407/Unit02/)
 - [Unit 3](https://legacy.saylor.org/engl407/Unit03/)
 - [Unit 4](https://legacy.saylor.org/engl407/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL407/ENGL407-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL407/ENGL407-FinalExam-Answers.html)
