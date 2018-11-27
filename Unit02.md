@@ -28,7 +28,7 @@ Upon successful completion of this unit, students will be able to:
     Link: UMILITA.net’s version of *Equally in God’s Image: Women in the
     Middle Ages:* Jane Barr’s ["The Vulgate Genesis and St. Jerome's
     Attitudes to
-    Women"](http://www.saylor.org/site/wp-content/uploads/2011/04/The-Vulgate-Genesis.pdf)
+    Women"](https://resources.saylor.org/archived/wp-content/uploads/2011/04/The-Vulgate-Genesis.pdf)
     (PDF)  
         
      Also available in:  
@@ -208,7 +208,7 @@ id="2.2.2.1"></span> 
 -   **Reading: Gloriana’s Court: Dr. Elizabeth G. Melillo’s “Julian of
     Norwich”**
     Link: Gloriana’s Court: Dr. Elizabeth G. Melillo’s [“Julian of
-    Norwich”](http://www.gloriana.nu/julian.html)[](http://www.saylor.org/site/wp-content/uploads/2011/04/Julian-of-Norwich.pdf)(PDF)  
+    Norwich”](http://www.gloriana.nu/julian.html)[](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Julian-of-Norwich.pdf)(PDF)  
         
      Instructions: Please read the entire short piece on Julian of
     Norwich for more about her daily life as a nun.  
@@ -243,7 +243,7 @@ id="2.2.2.3"></span> 
     Link: UMILITA.net’s version of *Equally in God’s Image: Women in the
     Middle Ages:*Elizabeth Robertson’s ["An Anchorhold of Her Own:
     Female Anchoritic Literature in Thirteenth-Century
-    England"](http://www.saylor.org/site/wp-content/uploads/2011/04/An-Anchorhold-of-Her-Own.pdf)
+    England"](https://resources.saylor.org/archived/wp-content/uploads/2011/04/An-Anchorhold-of-Her-Own.pdf)
     (PDF)  
         
      Instructions: Read the entire essay titled “An Anchorhold of Her
@@ -260,7 +260,7 @@ id="2.2.2.3"></span> 
 -   **Reading: Gloriana’s Court: Dr. Elizabeth G. Melillo’s “Mystics in
     Love”**
     Link: Gloriana’s Court: Dr. Elizabeth G. Melillo’s [“Mystics in
-    Love”](http://www.saylor.org/site/wp-content/uploads/2011/04/Mystics-in-love.pdf)
+    Love”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Mystics-in-love.pdf)
     (PDF)  
           
      Instructions: Please read the entire essay linked here for a
@@ -346,7 +346,7 @@ id="2.2.2.6"></span> 
 id="2.2.3.1"></span> 
 -   **Reading: Gloriana’s Court’s “Margery Kempe”**
     Link: Gloriana’s Court’s  [“Margery
-    Kempe”](http://www.saylor.org/site/wp-content/uploads/2011/04/Margery-Kempe.pdf)
+    Kempe”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Margery-Kempe.pdf)
     (PDF)  
         
      Instructions: Read the entire introductory essay linked here.  
