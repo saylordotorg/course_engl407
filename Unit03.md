@@ -148,7 +148,7 @@ id="3.2.3"></span> 
     Wheeler’s “Literary Terms and Definitions”: “Lai”**
     Link: Lightspill Poetry: Jonathan A. Glenn’s ["Notes on Middle
     English
-    Romance"](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Notes-on-Middle-English-Romance.pdf)
+    Romance"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Notes-on-Middle-English-Romance.pdf)
     (PDF) and Carson-Newman College: Dr. L. Kip Wheeler’s [“Literary
     Terms and Definitions”:
     “Lai”](http://web.cn.edu/kwheeler/lit_terms_L.html) (HTML)  
@@ -407,7 +407,7 @@ Ladies** <span id="3.3.6"></span> 
     Links: UMILITA.net’s version of *Equally in God’s Image: Women in
     the Middle Ages:*  Ester Zago’s ["Christine de Pizan: A Feminist Way
     to
-    Learning"](http://www.umilta.net/equal2.html#pizan)[](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Christine-de-Pizan.pdf)(PDF);
+    Learning"](http://www.umilta.net/equal2.html#pizan)[](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Christine-de-Pizan.pdf)(PDF);
     California Polytechnic State University: Dr. Debora B. Schwartz’s
     [“Christine de Pizan II: The Path of Long
     Study”](http://cla.calpoly.edu/%7Edschwart/engl203/christine2.html) (HTML)  
@@ -543,7 +543,7 @@ id="3.4.6"></span> 
     “Women in Power”**
     Links: UMILITA.net’s version of *Equally in God’s Image: Women in
     the Middle Ages:* Julia Holloway’s [“Chapter 5: Women in the
-    Cloister”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Chapter-5.pdf)
+    Cloister”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Chapter-5.pdf)
     (PDF); University of California eScholarship: Carl Kelso Jr.’s
     [“Women in
     Power”](http://escholarship.org/uc/item/7zk7n9c1?query=%22heloise%22#page-1)(Adobe
@@ -602,7 +602,7 @@ id="3.5.1.2"></span> 
     Textuality”**
     Link: UMILITA.net’s version of *Equally in God’s Image: Women in the
     Middle Ages:* Julia Holloway’s [“Chapter 3: Sexuality and
-    Textuality”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Chapter-3.pdf)
+    Textuality”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Chapter-3.pdf)
     (PDF)  
               
      Instructions:  Read the entirety of the short essay linked here,
@@ -651,7 +651,7 @@ id="3.5.1.4"></span> 
     Debora B. Schwartz’s “Medieval Allegory”**
     Links: Washington State University: Dr. Michael Delahoyde’s ["The
     Romance of the
-    Rose"](https://resources.saylor.org/archived/wp-content/uploads/2011/04/The-Romance-of-the-Rose.pdf)
+    Rose"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/The-Romance-of-the-Rose.pdf)
     (PDF); California Polytechnic State University: Dr. Debora B.
     Schwartz’s [“Medieval
     Allegory”](http://cla.calpoly.edu/%7Edschwart/engl203/gp203.html#allegory)(HTML)  
@@ -747,7 +747,7 @@ id="3.5.2.1"></span> 
     UMILITA.net’s version of *Equally in God’s Image: Women in the
     Middle Ages:* Julia Holloway’s [“Convents, Courts, and Colleges: The
     Prioress and the Second
-    Nun”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Convents.pdf)
+    Nun”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Convents.pdf)
     (PDF)  
            
      Instructions: Read this encyclopedia entry on Chaucer, which
@@ -769,7 +769,7 @@ id="3.5.2.1"></span> 
     Wife of Bath’s Tale”**
     Link: Washington State University: Dr. Michael Delahoyde’s [“The
     Wife of Bath’s
-    Tale”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/The-Wife-of-Baths-Tale.pdf)
+    Tale”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/The-Wife-of-Baths-Tale.pdf)
     (PDF)  
         
      Instructions: Please read the essay linked here for more
