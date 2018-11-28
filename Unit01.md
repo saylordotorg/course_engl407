@@ -244,7 +244,7 @@ id="1.3.1"></span> 
     Book”**
     Link: UMILITA.net’s version of *Equally in God’s Image: Women in the
     Middle Ages*: Julia Holloway’s [“Introduction: The Body and the
-    Book”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Introduction-Equally-in-Gods-Image.pdf)
+    Book”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Introduction-Equally-in-Gods-Image.pdf)
     (PDF)  
         
      Instructions: Please read the introduction to the online textbook,
